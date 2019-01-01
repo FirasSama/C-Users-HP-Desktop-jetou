@@ -1,0 +1,7 @@
+{
+  "name": "jetou",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
